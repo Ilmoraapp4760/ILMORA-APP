@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.ilmora.app",
-        "sha256_cert_fingerprints": ["B6:F8:13:1B:EC:A3:12:E4:BA:E9:75:CF:3B:67:3C:B0:4D:CA:10:52:86:F1:7D:64:CB:F6:EE:4C:65:DE:9B:CC"]
-      }
-    }]
